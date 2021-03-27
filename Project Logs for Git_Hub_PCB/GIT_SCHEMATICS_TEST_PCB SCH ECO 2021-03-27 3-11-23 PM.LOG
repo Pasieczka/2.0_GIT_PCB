@@ -1,0 +1,3 @@
+Remove Pin=IGBT?-1 From Net=gateDriveL
+Remove Pin=IGBT?-6 From Net=NTC+
+Remove Pin=IGBT?-7 From Net=gateDriveH

@@ -1,0 +1,11 @@
+Added Net: Name=DC+
+Added Net: Name=DC-
+Added Net: Name=gateDriveH
+Added Net: Name=gateDriveL
+Added Net: Name=NTC+
+Added Net: Name=Vo
+Added Class: Name=GIT_SCHEMATICS_TEST_PCB
+Added Class: Name=TS_DC+
+Added Class: Name=TS_DC-
+Added Class: Name=TS_O
+Added Room: Name=GIT_SCHEMATICS_TEST_PCB
